@@ -1,0 +1,32 @@
+/* line 3, ../PreEntrega2Hidalgo/scss/estilos.scss */
+a {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #661f1f;
+  text-decoration: none;
+}
+
+/* line 11, ../PreEntrega2Hidalgo/scss/estilos.scss */
+body p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* line 13, ../PreEntrega2Hidalgo/scss/estilos.scss */
+body h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: underline;
+}
+
+/* line 17, ../PreEntrega2Hidalgo/scss/estilos.scss */
+.btn-primary {
+  background-color: #ac3c3c !important;
+  border-color: #8d8d8d !important;
+  border-radius: 0% !important;
+  color: white !important;
+}
+
+/* line 26, ../PreEntrega2Hidalgo/scss/estilos.scss */
+.table {
+  background-color: #a3a3a3;
+}
+
+/*# sourceMappingURL=estilos.css.map */
