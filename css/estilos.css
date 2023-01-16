@@ -1,32 +1,54 @@
 /* line 3, ../PreEntrega2Hidalgo/scss/estilos.scss */
 a {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Roboto Flex', sans-serif;
   color: #661f1f;
   text-decoration: none;
+  font-size: large;
 }
 
-/* line 11, ../PreEntrega2Hidalgo/scss/estilos.scss */
+/* line 12, ../PreEntrega2Hidalgo/scss/estilos.scss */
 body p {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Roboto Flex', sans-serif;
 }
 
-/* line 13, ../PreEntrega2Hidalgo/scss/estilos.scss */
+/* line 14, ../PreEntrega2Hidalgo/scss/estilos.scss */
 body h2 {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  text-decoration: underline;
+  font-family: 'Moon Dance', cursive;
+  font-size: 50px;
 }
 
-/* line 17, ../PreEntrega2Hidalgo/scss/estilos.scss */
+/* line 18, ../PreEntrega2Hidalgo/scss/estilos.scss */
+body h1 {
+  font-family: 'Acme', sans-serif;
+}
+
+/* line 21, ../PreEntrega2Hidalgo/scss/estilos.scss */
 .btn-primary {
-  background-color: #ac3c3c !important;
+  background-color: #b43737 !important;
   border-color: #8d8d8d !important;
-  border-radius: 0% !important;
+  border-radius: 15% !important;
   color: white !important;
 }
 
-/* line 26, ../PreEntrega2Hidalgo/scss/estilos.scss */
+/* line 30, ../PreEntrega2Hidalgo/scss/estilos.scss */
 .table {
-  background-color: #a3a3a3;
+  background-color: #dddbdb;
+}
+
+/* line 34, ../PreEntrega2Hidalgo/scss/estilos.scss */
+#texto_inscripcion {
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+/* line 40, ../PreEntrega2Hidalgo/scss/estilos.scss */
+#imagen_inscripcion {
+  text-align: center !important;
+}
+
+/* line 44, ../PreEntrega2Hidalgo/scss/estilos.scss */
+.card:hover {
+  filter: opacity(0.5);
 }
 
 /*# sourceMappingURL=estilos.css.map */
